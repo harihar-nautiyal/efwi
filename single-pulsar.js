@@ -1,5 +1,5 @@
 (function () {
-  var _0x1a2b = 2000;
+  var _0x1a2b = 200;
   var _0x3c4d = 500;
   var _0x5e6f = null;
   var _0x7g8h = null;
