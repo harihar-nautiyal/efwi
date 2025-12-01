@@ -268,7 +268,7 @@ The viewport meta tag is crucial for responsive design. It tells the browser how
 <meta name="Meta Name" content="Meta Content Value">
 ```
 Your task is to add the viewport meta tag inside the `<head>` to make your page responsive.
-```
+`````
 ## Response
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
